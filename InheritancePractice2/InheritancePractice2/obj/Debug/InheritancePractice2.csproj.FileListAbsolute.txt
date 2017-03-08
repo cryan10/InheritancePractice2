@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\InheritancePractice2\InheritancePractice2\bin\Debug\InheritancePractice2.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\InheritancePractice2\InheritancePractice2\bin\Debug\InheritancePractice2.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\InheritancePractice2\InheritancePractice2\bin\Debug\InheritancePractice2.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\InheritancePractice2\InheritancePractice2\obj\Debug\InheritancePractice2.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\InheritancePractice2\InheritancePractice2\obj\Debug\InheritancePractice2.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\InheritancePractice2\InheritancePractice2\obj\Debug\InheritancePractice2.pdb
